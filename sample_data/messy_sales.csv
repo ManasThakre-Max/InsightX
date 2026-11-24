@@ -1,0 +1,264 @@
+Order ID,Order Date,Customer ID,Product Name,Category,Region,City,Quantity,Sales,Cost,Profit,Discount
+ORD-00001,2026-06-19,C0029,Printer Paper,Office Supplies,East,Kolkata,5,11400.0,6472.73,4927.27,0.05
+ORD-00002,2025-01-28,C0164,Desk Chair,Furniture,East,Kolkata,7,23275.0,18921.34,4353.66,0.05
+ORD-00003,2026-02-16,C0039,USB-C Hub,Electronics,South,Bengaluru,1,712.5,711.69,0.81,0.25
+ORD-00004,2026-06-30,C0080,Laptop Stand,Accessories,North,Delhi,4,8160.0,5011.11,3148.89,0.15
+ORD-00005,2026-02-24,,Mechanical Keyboard,Electronics,East,Kolkata,8,6080.0,5746.74,333.26,0.2
+ORD-00006,2026-03-20,C0149,Notebook Set,Office Supplies,East,Kolkata,1,2400.0,1934.96,465.04,0.0
+ORD-00007,2025-01-06,C0135,Printer Paper,Office Supplies,South,Bengaluru,4,2380.0,1547.58,832.42,0.15
+ORD-00008,2026-01-04,C0065,Wireless Mouse,Electronics,South,Bengaluru,5,2625.0,2007.83,617.17,0.25
+ORD-00009,2025-11-11,C0086,Notebook Set,Office Supplies,East,Kolkata,6,5415.0,2918.39,2496.61,0.05
+ORD-00010,2025-01-10,C0163,Wireless Mouse,Electronics,West,Mumbai,6,2430.0,1979.59,450.41,0.1
+ORD-00011,2025-02-25,C0006,Desk Chair,Furniture,West,Mumbai,5,9000.0,6609.48,2390.52,0.0
+ORD-00012,2026-09-28,C0047,Webcam,Electronics,West,Mumbai,3,9450.0,7651.96,1798.04,0.1
+ORD-00013,2025-07-20,C0207,Standing Desk,Furniture,East,Kolkata,3,2058.0,1043.86,1014.14,0.02
+ORD-00014,2025-11-20,C0215,Notebook Set,Office Supplies,East,Kolkata,1,,485.97,369.03,0.1
+ORD-00015,2025-09-14,C0058,Printer Paper,Office Supplies,South,Bengaluru,8,4760.0,2850.13,1909.87,0.15
+ORD-00016,2026-06-30,C0151,Standing Desk,Furniture,West,Mumbai,3,5400.0,3922.86,1477.14,0.0
+ORD-00017,2026-02-07,C0248,Water Bottle,Accessories,North,Delhi,4,11900.0,9703.61,2196.39,0.15
+ORD-00018,2026-04-16,C0154,Desk Chair,Furniture,East,Kolkata,4,19760.0,15780.36,3979.64,0.05
+ORD-00019,2025-01-30,C0239,Webcam, electronics ,South,Bengaluru,7,2362.5,1864.09,498.41,0.25
+ORD-00020,2026-07-24,C0078,Desk Chair,Furniture,South,Bengaluru,6,14112.0,11798.69,2313.31,0.02
+ORD-00021,2026-03-21,C0050,Notebook Set,Office Supplies,North,Delhi,8,4760.0,2888.89,1871.11,0.15
+ORD-00022,2026-08-13,C0138,Laptop Stand,Accessories,South,Bengaluru,3,14040.0,9851.24,4188.76,0.1
+ORD-00023,2026-07-17,C0212,Water Bottle,Accessories,North,Delhi,8,3420.0,2050.44,1369.56,0.05
+ORD-00024,2026-04-24,C0008,  Desk Chair ,Office Supplies,North,Delhi,6,7200.0,4110.04,3089.96,0.0
+ORD-00025,2025-04-26,C0117,Water Bottle,Accessories,North,Delhi,5,4500.0,3081.32,1418.68,0.25
+ORD-00026,2026-07-04,C0190,Desk Chair,Furniture,North,Delhi,1,2625.0,1826.06,798.94,0.25
+ORD-00027,2026-07-07,C0104,Wireless Mouse,Electronics,West,Mumbai,4,6840.0,4329.69,2510.31,0.05
+ORD-00028,2025-01-08,C0161,Laptop Stand,Accessories,North,Delhi,6,3150.0,3086.28,63.72,0.25
+ORD-00029,2025-10-19,C0237,Notebook Set,Office Supplies,South,Bengaluru,6,3990.0,2197.72,1792.28,0.05
+ORD-00030,2026-05-22,C0080,Standing Desk,Furniture,West,Mumbai,8,5320.0,3163.96,2156.04,0.05
+ORD-00031,2025-07-25,C0201,Water Bottle,Accessories,South,Bengaluru,6,5586.0,3714.4,1871.6,0.02
+ORD-00032,not-a-date,C0170,Mechanical Keyboard,Electronics,South,Bengaluru,7,30940.0,28578.94,2361.06,0.15
+ORD-00033,2026-07-27,C0245,USB-C Hub,Electronics,East,Kolkata,3,6480.0,5422.15,1057.85,0.1
+ORD-00034,2026-02-21,C0110,Mechanical Keyboard,Electronics,South,Bengaluru,4,3040.0,2019.0,1021.0,0.2
+ORD-00035,2026-07-15,C0065,Notebook Set,Office Supplies,West,Mumbai,8,7220.0,6073.53,1146.47,0.05
+ORD-00036,2026-05-30,C0020,Desk Chair,Furniture,West,Mumbai,6,2160.0,1408.39,751.61,0.2
+ORD-00037,2026-03-17,C0019,Mechanical Keyboard,Electronics,East,Kolkata,7,8232.0,4233.59,3998.41,0.02
+ORD-00038,2025-10-23,C0079,Notebook Set,Office Supplies,East,Kolkata,8,18816.0,15508.7,3307.3,0.02
+ORD-00039,2026-01-28,C0061,Notebook Set,Office Supplies,East,Kolkata,3,10500.0,8427.24,2072.76,0.0
+ORD-00040,2025-08-10,C0079,Desk Chair,Furniture,North,Delhi,6,18900.0,12009.51,6890.49,0.1
+ORD-00041,2026-02-19,C0091,Desk Chair,Furniture,North,Delhi,6,2700.0,2093.73,606.27,0.0
+ORD-00042,2026-05-19,C0193,Printer Paper,Office Supplies,South,Bengaluru,7,10080.0,7344.26,2735.74,0.2
+ORD-00043,2026-03-01,C0059,Desk Chair,Furniture,South,Bengaluru,4,3600.0,2896.03,703.97,0.25
+ORD-00044,2026-10-11,C0241,Printer Paper,Office Supplies,South,Bengaluru,2,8320.0,5690.81,2629.19,0.2
+ORD-00045,2026-08-22,C0197,Water Bottle,Accessories,West,Mumbai,8,5488.0,3136.73,2351.27,0.02
+ORD-00046,2026-02-08,C0084,Desk Chair,Furniture,South,Bengaluru,-4,22050.0,14546.43,7503.57,0.1
+ORD-00047,2026-01-31,C0224,Desk Chair,Furniture,West,Mumbai,3,15600.0,9997.87,5602.13,0.0
+ORD-00048,2026-05-09,C0051,Mechanical Keyboard,Electronics,South,Bengaluru,3,15600.0,8891.47,6708.53,0.0
+ORD-00049,2025-06-10,C0014,Standing Desk,Furniture,West,Mumbai,3,1012.5,705.11,307.39,0.25
+ORD-00050,2025-03-31,C0208,Standing Desk,Furniture,East,Kolkata,5,7200.0,5477.97,1722.03,0.2
+ORD-00051,2026-07-31,C0181,Wireless Mouse,Electronics,North,Delhi,1,1530.0,1238.43,291.57,0.15
+ORD-00052,2025-02-26,C0012,Standing Desk,Furniture,North,Delhi,5,10800.0,9641.79,1158.21,0.1
+ORD-00053,2026-01-16,C0094,Notebook Set,Office Supplies,West,Mumbai,8,39520.0,31323.59,8196.41,0.05
+ORD-00054,2025-08-13,C0030,Wireless Mouse,Electronics,West,Mumbai,2,4080.0,3589.55,490.45,0.15
+ORD-00055,2026-09-18,C0174,Laptop Stand,Accessories,North,Delhi,2,720.0,551.87,168.13,0.2
+ORD-00056,2026-04-18,C0005,USB-C Hub,Electronics,East,Kolkata,4,20800.0,14781.43,6018.57,0.0
+ORD-00057,2026-08-31,C0078,Mechanical Keyboard,Electronics,East,Kolkata,2,1710.0,1054.35,655.65,0.1
+ORD-00058,2026-09-13,C0027,Notebook Set,Office Supplies,West,Mumbai,1,3500.0,2136.71,1363.29,0.0
+ORD-00059,2025-12-01,C0024,Laptop Stand,Accessories,West,Mumbai,6,23400.0,15582.69,7817.31,0.25
+ORD-00060,2026-07-02,C0196,Water Bottle,Accessories,South,Bengaluru,5,2800.0,2711.75,88.25,0.2
+ORD-00061,2025-03-14,C0224,Notebook Set,Office Supplies,South,Bengaluru,1,712.5,755.65,-43.15,0.25
+ORD-00062,2025-10-30,C0126,Printer Paper,Office Supplies,North,Delhi,2,1050.0,1036.3,13.7,0.25
+ORD-00063,2026-06-11,C0155,Printer Paper,Office Supplies,West,Mumbai,7,999999.0,7069.16,3640.84,0.15
+ORD-00064,2025-05-13,C0203,Desk Chair,Furniture,East,Kolkata,6,5760.0,4232.96,1527.04,0.2
+ORD-00065,2025-08-05,C0113,Webcam,Electronics,South,Bengaluru,2,1800.0,1584.98,215.02,0.25
+ORD-00066,2026-03-23,C0002,Notebook Set,Office Supplies,South,Bengaluru,7,3087.0,2540.71,546.29,0.02
+ORD-00067,2025-09-23,C0137,Wireless Mouse,Electronics,North,Delhi,5,9000.0,7508.11,1491.89,0.25
+ORD-00068,2026-07-28,C0180,Laptop Stand,Accessories,East,Kolkata,1,360.0,298.83,61.17,0.2
+ORD-00069,2026-08-30,C0154,Notebook Set,Office Supplies,East,Kolkata,3,6120.0,4945.51,1174.49,0.15
+ORD-00070,2025-09-02,C0117,Standing Desk,Furniture,South,Bengaluru,8,41600.0,21782.49,19817.51,0.0
+ORD-00071,2026-06-04,C0169,USB-C Hub,Electronics,West,Mumbai,8,3600.0,1939.94,1660.06,0.0
+ORD-00072,2026-02-13,C0156,Mechanical Keyboard,Electronics,North,Delhi,5,5880.0,3167.04,2712.96,0.02
+ORD-00073,2026-04-25,C0067,Notebook Set,Office Supplies,East,Kolkata,3,15288.0,12590.96,2697.04,0.02
+ORD-00074,2026-04-03,C0080,Water Bottle,Accessories,South,Bengaluru,2,1900.0,1072.11,827.89,0.0
+ORD-00075,2025-04-15,C0003,Standing Desk,Furniture,West,Mumbai,5,10800.0,6824.57,3975.43,0.1
+ORD-00076,2026-04-09,C0030,Standing Desk,Furniture,East,Kolkata,3,3528.0,1855.86,1672.14,0.02
+ORD-00077,2025-02-11,C0042,Desk Chair,Furniture,South,Bengaluru,6,14112.0,7939.28,6172.72,0.02
+ORD-00078,2026-08-13,C0106,Webcam,Electronics,West,Mumbai,1,3900.0,2553.24,1346.76,0.25
+ORD-00079,2026-03-01,C0073,Notebook Set,Office Supplies,South,Bengaluru,8,3600.0,1837.13,1762.87,0.0
+ORD-00080,2026-08-17,C0214,Printer Paper,Office Supplies,East,Kolkata,1,712.5,548.45,164.05,0.25
+ORD-00081,2025-06-17,C0167,Notebook Set,Office Supplies,East,Kolkata,6,30576.0,20955.75,9620.25,0.02
+ORD-00082,2026-10-03,C0119,Printer Paper,Office Supplies,East,Kolkata,4,3230.0,2598.07,631.93,0.15
+ORD-00083,2026-07-12,C0010,Standing Desk,Furniture,East,Kolkata,1,2352.0,1941.13,410.87,0.02
+ORD-00084,2025-01-05,C0236,Standing Desk,Furniture,South,Bengaluru,2,1330.0,951.13,378.87,0.05
+ORD-00085,2025-03-31,C0238,Notebook Set,Office Supplies,East,Kolkata,3,11700.0,10662.48,1037.52,0.25
+ORD-00086,2025-05-19,C0008,Water Bottle,Accessories,West,Mumbai,8,8160.0,5346.92,2813.08,0.15
+ORD-00087,2025-09-02,C0071,Laptop Stand,Accessories,West,Mumbai,4,2520.0,1897.7,622.3,0.1
+ORD-00088,2026-08-29,C0247,Standing Desk,Furniture,East,Kolkata,3,6480.0,3800.46,2679.54,0.1
+ORD-00089,2025-09-29,C0205,Standing Desk,Furniture,West,Mumbai,2,9880.0,8197.47,1682.53,0.05
+ORD-00090,2025-01-10,C0167,Laptop Stand,Accessories,South,Bengaluru,3,8400.0,6239.47,2160.53,0.2
+ORD-00091,2025-02-28,C0233,Water Bottle,Accessories,East,Kolkata,5,2975.0,2642.87,332.13,0.15
+ORD-00092,2025-09-22,C0007,Laptop Stand,Accessories,South,Bengaluru,6,8640.0,6020.07,2619.93,0.2
+ORD-00093,2026-05-24,C0221,Mechanical Keyboard,Electronics,East,Kolkata,7,2835.0,2206.89,628.11,0.1
+ORD-00094,2026-09-21,C0002,Desk Chair,Furniture,North,Delhi,5,7650.0,5194.39,2455.61,0.15
+ORD-00095,2025-09-21,C0010,Notebook Set,Office Supplies,West,Mumbai,1,1020.0,911.06,108.94,0.15
+ORD-00096,2025-11-19,C0144,Mechanical Keyboard,Electronics,East,Kolkata,6,2646.0,1570.74,1075.26,0.02
+ORD-00097,2025-08-05,C0163,Laptop Stand,Accessories,East,Kolkata,1,2160.0,1229.94,930.06,0.1
+ORD-00098,2026-07-20,C0146,Laptop Stand,Accessories,North,Delhi,7,7140.0,4475.15,2664.85,0.15
+ORD-00099,2025-06-20,C0052,Water Bottle,Accessories,South,Bengaluru,5,3430.0,1789.7,1640.3,0.02
+ORD-00100,2025-08-27,C0138,Notebook Set,Office Supplies,West,Mumbai,5,26000.0,13075.31,12924.69,0.0
+ORD-00101,2026-04-08,C0101,Webcam,Electronics,West,Mumbai,3,1680.0,1547.46,132.54,0.2
+ORD-00102,2026-06-28,C0030,Wireless Mouse,Electronics,North,Delhi,7,35672.0,25056.38,10615.62,0.02
+ORD-00103,2025-01-26,C0099,Standing Desk,Furniture,South,Bengaluru,6,7056.0,5126.48,1929.52,0.02
+ORD-00104,2025-05-03,C0137,Standing Desk,Furniture,East,Kolkata,4,4560.0,3868.25,691.75,0.05
+ORD-00105,2025-05-29,C0162,Laptop Stand,Accessories,East,Kolkata,5,3500.0,2426.48,1073.52,0.0
+ORD-00106,2026-07-18,C0062,Printer Paper,Office Supplies,South,Bengaluru,7,14280.0,9218.04,5061.96,0.15
+ORD-00107,2025-11-02,C0164,Standing Desk,Furniture,West,Mumbai,7,12348.0,6876.38,5471.62,0.02
+ORD-00108,2026-07-10,C0136,Notebook Set,Office Supplies,East,Kolkata,4,5400.0,3498.68,1901.32,0.25
+ORD-00109,2026-01-02,C0161,Standing Desk,Furniture,East,Kolkata,8,17280.0,12658.78,4621.22,0.1
+ORD-00110,2025-06-15,C0061,Desk Chair,Furniture,East,Kolkata,1,1530.0,1212.13,317.87,0.15
+ORD-00111,2025-06-16,C0221,Notebook Set,Office Supplies,South,Bengaluru,8,3528.0,1939.91,1588.09,0.02
+ORD-00112,2025-04-09,C0063,Mechanical Keyboard,Electronics,North,Delhi,7,13440.0,13566.94,-126.94,0.2
+ORD-00113,2025-05-11,C0089,Laptop Stand,Accessories,South,Bengaluru,3,6840.0,3510.93,3329.07,0.05
+ORD-00114,2026-03-02,C0096,Webcam,Electronics,East,Kolkata,2,3420.0,1824.52,1595.48,0.05
+ORD-00115,2025-09-02,C0015,Desk Chair,Furniture,North,Delhi,6,4560.0,3658.41,901.59,0.2
+ORD-00116,2025-06-22,C0180,Printer Paper,Office Supplies,West,Mumbai,1,382.5,226.13,156.37,0.15
+ORD-00117,2025-06-23,C0112,Webcam,Electronics,North,Delhi,6,13680.0,11573.36,2106.64,0.05
+ORD-00118,2026-05-19,C0157,Laptop Stand,Accessories,South,Bengaluru,3,1080.0,796.98,283.02,0.2
+ORD-00119,2025-03-22,C0014,USB-C Hub,Electronics,South,Bengaluru,1,3150.0,2613.61,536.39,0.1
+ORD-00120,2025-12-03,C0148,Mechanical Keyboard,Electronics,South,Bengaluru,4,1800.0,1246.67,553.33,0.0
+ORD-00121,2025-04-03,C0248,Notebook Set,Office Supplies,North,Delhi,4,7200.0,6370.67,829.33,0.25
+ORD-00122,2025-03-02,C0193,Water Bottle,Accessories,West,Mumbai,3,2137.5,1507.22,630.28,0.25
+ORD-00123,2025-03-10,C0052,Laptop Stand,Accessories,East,Kolkata,1,1800.0,1338.26,461.74,0.25
+ORD-00124,2025-10-13,C0116,Webcam,Electronics,South,Bengaluru,8,8160.0,6926.61,1233.39,0.15
+ORD-00125,2025-05-19,C0163,USB-C Hub,Electronics,North,Delhi,7,32760.0,22490.79,10269.21,0.1
+ORD-00126,2026-02-12,C0179,USB-C Hub,Electronics,South,Bengaluru,5,9000.0,6390.73,2609.27,0.0
+ORD-00127,2025-06-11,C0197,Laptop Stand,Accessories,South,Bengaluru,1,3430.0,2623.26,806.74,0.02
+ORD-00128,2025-06-12,C0009,Notebook Set,Office Supplies,East,Kolkata,6,2565.0,1651.31,913.69,0.05
+ORD-00129,2025-09-25,C0131,Webcam,Electronics,South,Bengaluru,8,12240.0,7798.37,4441.63,0.15
+ORD-00130,2025-03-23,C0047,Wireless Mouse,Electronics,West,Mumbai,5,9600.0,7791.29,1808.71,0.2
+ORD-00131,2025-03-01,C0074,Desk Chair,Furniture,North,Delhi,8,3240.0,2051.06,1188.94,0.1
+ORD-00132,2026-07-23,C0233,Laptop Stand,Accessories,North,Delhi,7,5320.0,3885.21,1434.79,0.2
+ORD-00133,2026-07-01,C0081,Water Bottle,Accessories,East,Kolkata,4,2380.0,1843.89,536.11,0.15
+ORD-00134,2025-01-16,C0207,Notebook Set,Office Supplies,North,Delhi,6,24960.0,20725.99,4234.01,0.2
+ORD-00135,2025-11-12,C0059,Printer Paper,Office Supplies,South,Bengaluru,7,12600.0,6727.23,5872.77,0.0
+ORD-00136,2026-01-24,C0241,Laptop Stand,Accessories,North,Delhi,6,5586.0,3352.61,2233.39,0.02
+ORD-00137,2025-03-28,C0154,Notebook Set,Office Supplies,West,Mumbai,3,2707.5,1875.83,831.67,0.05
+ORD-00138,2025-07-25,C0119,Desk Chair,Furniture,West,Mumbai,7,3675.0,3003.79,671.21,0.25
+ORD-00139,2026-07-21,C0122,Standing Desk,Furniture,East,Kolkata,7,35672.0,27035.04,8636.96,0.02
+ORD-00140,2025-11-23,C0023,Wireless Mouse,Electronics,North,Delhi,5,5880.0,4195.15,1684.85,0.02
+ORD-00141,2026-03-06,C0102,Printer Paper,Office Supplies,East,Kolkata,7,10710.0,10079.25,630.75,0.15
+ORD-00142,2025-08-25,C0039,Printer Paper,Office Supplies,West,Mumbai,4,4080.0,3140.06,939.94,0.15
+ORD-00143,2025-12-01,C0172,Desk Chair,Furniture,East,Kolkata,3,15288.0,7796.25,7491.75,0.02
+ORD-00144,2025-06-27,C0044,Standing Desk,Furniture,North,Delhi,5,11760.0,9433.3,2326.7,0.02
+ORD-00145,2026-08-12,C0127,Printer Paper,Office Supplies,East,Kolkata,8,10800.0,7635.6,3164.4,0.25
+ORD-00146,2026-03-22,C0224,Desk Chair,Furniture,West,Mumbai,1,1350.0,1283.27,66.73,0.25
+ORD-00147,2025-11-08,C0220,Wireless Mouse,Electronics,East,Kolkata,7,6317.5,3704.81,2612.69,0.05
+ORD-00148,2025-07-18,C0131,Mechanical Keyboard,Electronics,South,Bengaluru,5,24700.0,19882.16,4817.84,0.05
+ORD-00149,2026-03-04,C0152,Printer Paper,Office Supplies,North,Delhi,1,1800.0,1057.38,742.62,0.0
+ORD-00150,2025-05-19,C0128,Water Bottle,Accessories,West,Mumbai,2,2160.0,1451.21,708.79,0.1
+ORD-00151,2026-05-11,C0024,Mechanical Keyboard,Electronics,North,Delhi,2,1900.0,1512.49,387.51,0.0
+ORD-00152,2026-01-13,C0120,Printer Paper,Office Supplies,East,Kolkata,8,4760.0,4546.96,213.04,0.15
+ORD-00153,2025-11-05,C0079,Webcam,Electronics,East,Kolkata,5,8100.0,7206.83,893.17,0.1
+ORD-00154,2026-03-18,C0238,Printer Paper,Office Supplies,East,Kolkata,5,12000.0,9632.08,2367.92,0.0
+ORD-00155,2026-06-20,C0106,Laptop Stand,Accessories,North,Delhi,1,855.0,599.99,255.01,0.1
+ORD-00156,2026-03-27,C0169,Wireless Mouse,Electronics,East,Kolkata,3,3528.0,2135.02,1392.98,0.02
+ORD-00157,2026-08-30,C0103,Notebook Set,Office Supplies,East,Kolkata,4,18720.0,15776.56,2943.44,0.1
+ORD-00158,2025-06-18,C0247,Standing Desk,Furniture,East,Kolkata,1,405.0,290.73,114.27,0.1
+ORD-00159,2025-10-06,C0109,Water Bottle,Accessories,North,Delhi,4,13300.0,10966.5,2333.5,0.05
+ORD-00160,2025-03-25,C0152,Desk Chair,Furniture,West,Mumbai,6,7056.0,4096.82,2959.18,0.02
+ORD-00161,2026-09-19,C0126,Standing Desk,Furniture,North,Delhi,2,1920.0,1474.49,445.51,0.2
+ORD-00162,2025-01-20,C0151,Laptop Stand,Accessories,West,Mumbai,2,5250.0,3369.29,1880.71,0.25
+ORD-00163,2025-06-13,C0150,Wireless Mouse,Electronics,West,Mumbai,4,7200.0,4470.01,2729.99,0.0
+ORD-00164,2026-10-05,C0077,Wireless Mouse,Electronics,North,Delhi,8,22400.0,17982.71,4417.29,0.2
+ORD-00165,2025-09-08,C0094,Desk Chair,Furniture,East,Kolkata,1,3430.0,2485.69,944.31,0.02
+ORD-00166,2026-03-08,C0005,Webcam,Electronics,West,Mumbai,7,12600.0,6288.98,6311.02,0.0
+ORD-00167,2025-10-21,C0028,Desk Chair,Furniture,North,Delhi,4,2800.0,1565.98,1234.02,0.0
+ORD-00168,2025-03-04,C0206,Laptop Stand,Accessories,West,Mumbai,8,28000.0,21170.94,6829.06,0.0
+ORD-00169,2025-09-17,C0140,Printer Paper,Office Supplies,North,Delhi,3,5130.0,3932.01,1197.99,0.05
+ORD-00170,2026-08-15,C0045,Desk Chair,Furniture,West,Mumbai,2,1372.0,710.13,661.87,0.02
+ORD-00171,2025-07-16,C0212,Printer Paper,Office Supplies,North,Delhi,7,23275.0,18116.85,5158.15,0.05
+ORD-00172,2025-02-14,C0163,Printer Paper,Office Supplies,South,Bengaluru,2,3600.0,3306.98,293.02,0.25
+ORD-00173,2025-06-15,C0102,Desk Chair,Furniture,South,Bengaluru,8,21000.0,14328.68,6671.32,0.25
+ORD-00174,2025-03-23,C0075,Water Bottle,Accessories,East,Kolkata,3,2707.5,1582.37,1125.13,0.05
+ORD-00175,2026-07-06,C0041,Wireless Mouse,Electronics,North,Delhi,1,4420.0,3238.84,1181.16,0.15
+ORD-00176,2025-10-30,C0200,Notebook Set,Office Supplies,North,Delhi,8,21000.0,15085.92,5914.08,0.25
+ORD-00177,2026-08-01,C0214,Wireless Mouse,Electronics,South,Bengaluru,8,8160.0,7755.4,404.6,0.15
+ORD-00178,2025-06-03,C0159,Water Bottle,Accessories,South,Bengaluru,4,6120.0,4625.12,1494.88,0.15
+ORD-00179,2025-03-25,C0121,Notebook Set,Office Supplies,East,Kolkata,4,20384.0,12183.84,8200.16,0.02
+ORD-00180,2026-02-26,C0061,Printer Paper,Office Supplies,North,Delhi,4,3600.0,3582.48,17.52,0.25
+ORD-00181,2026-02-02,C0028,Water Bottle,Accessories,South,Bengaluru,5,2205.0,1534.05,670.95,0.02
+ORD-00182,2026-01-08,C0201,Laptop Stand,Accessories,South,Bengaluru,8,27440.0,21153.37,6286.63,0.02
+ORD-00183,2025-06-22,C0089,Water Bottle,Accessories,West,Mumbai,6,18900.0,15498.24,3401.76,0.1
+ORD-00184,2025-11-16,C0091,Wireless Mouse,Electronics,East,Kolkata,7,4165.0,3908.99,256.01,0.15
+ORD-00185,2026-06-24,C0079,Desk Chair,Furniture,West,Mumbai,3,14820.0,12641.41,2178.59,0.05
+ORD-00186,2025-08-02,C0195,Printer Paper,Office Supplies,South,Bengaluru,1,931.0,741.53,189.47,0.02
+ORD-00187,2025-05-13,C0194,Webcam,Electronics,East,Kolkata,3,1215.0,656.12,558.88,0.1
+ORD-00188,2025-11-07,C0003,Printer Paper,Office Supplies,South,Bengaluru,5,14000.0,9452.71,4547.29,0.2
+ORD-00189,2025-10-16,C0022,Water Bottle,Accessories,West,Mumbai,3,14040.0,11343.54,2696.46,0.1
+ORD-00190,2025-02-16,C0197,USB-C Hub,Electronics,South,Bengaluru,2,3060.0,2507.74,552.26,0.15
+ORD-00191,2026-03-28,C0118,Laptop Stand,Accessories,East,Kolkata,2,6650.0,4595.93,2054.07,0.05
+ORD-00192,2025-10-31,C0095,Wireless Mouse,Electronics,South,Bengaluru,6,10800.0,6517.97,4282.03,0.0
+ORD-00193,2026-05-22,C0200,Notebook Set,Office Supplies,North,Delhi,4,4704.0,2825.49,1878.51,0.02
+ORD-00194,2025-06-11,C0017,Notebook Set,Office Supplies,East,Kolkata,4,4080.0,3842.49,237.51,0.15
+ORD-00195,2025-12-15,C0159,Desk Chair,Furniture,South,Bengaluru,6,2025.0,2204.49,-179.49,0.25
+ORD-00196,2025-12-01,C0126,Water Bottle,Accessories,East,Kolkata,7,12600.0,12054.68,545.32,0.25
+ORD-00197,2025-09-10,C0020,Mechanical Keyboard,Electronics,North,Delhi,1,1080.0,684.8,395.2,0.1
+ORD-00198,2025-12-09,C0189,Webcam,Electronics,North,Delhi,2,1710.0,1044.47,665.53,0.1
+ORD-00199,2026-06-30,C0220,Desk Chair,Furniture,South,Bengaluru,6,10800.0,6206.15,4593.85,0.0
+ORD-00200,2025-05-31,C0001,Wireless Mouse,Electronics,North,Delhi,6,7056.0,4649.79,2406.21,0.02
+ORD-00201,2026-09-11,C0059,Notebook Set,Office Supplies,East,Kolkata,8,25200.0,13645.07,11554.93,0.1
+ORD-00202,2025-07-21,C0195,Webcam,Electronics,South,Bengaluru,2,9360.0,8360.43,999.57,0.1
+ORD-00203,2026-09-17,C0111,Wireless Mouse,Electronics,East,Kolkata,2,720.0,704.65,15.35,0.2
+ORD-00204,2025-09-17,C0142,Water Bottle,Accessories,North,Delhi,7,6317.5,5108.18,1209.32,0.05
+ORD-00205,2026-06-09,C0048,Printer Paper,Office Supplies,North,Delhi,8,8160.0,7042.72,1117.28,0.15
+ORD-00206,2026-05-12,C0063,Mechanical Keyboard,Electronics,North,Delhi,6,10800.0,9973.71,826.29,0.25
+ORD-00207,2026-07-31,C0162,Laptop Stand,Accessories,North,Delhi,2,1805.0,937.94,867.06,0.05
+ORD-00208,2026-10-11,C0033,Mechanical Keyboard,Electronics,North,Delhi,3,13260.0,11561.6,1698.4,0.15
+ORD-00209,2026-04-08,C0164,Desk Chair,Furniture,East,Kolkata,5,3325.0,2098.53,1226.47,0.05
+ORD-00210,2026-02-15,C0054,Water Bottle,Accessories,West,Mumbai,3,15600.0,9075.12,6524.88,0.0
+ORD-00211,2025-02-16,C0011,Mechanical Keyboard,Electronics,East,Kolkata,7,22050.0,13419.24,8630.76,0.1
+ORD-00212,2026-08-02,C0183,Printer Paper,Office Supplies,South,Bengaluru,3,1785.0,1620.23,164.77,0.15
+ORD-00213,2025-06-14,C0224,Printer Paper,Office Supplies,South,Bengaluru,3,2280.0,1744.31,535.69,0.2
+ORD-00214,2025-03-27,C0033,Printer Paper,Office Supplies,East,Kolkata,4,14000.0,9937.99,4062.01,0.0
+ORD-00215,2025-01-17,C0001,Webcam,Electronics,South,Bengaluru,5,20800.0,20860.62,-60.62,0.2
+ORD-00216,2025-05-10,C0190,Mechanical Keyboard,Electronics,South,Bengaluru,1,1200.0,894.76,305.24,0.0
+ORD-00217,2025-03-07,C0200,Wireless Mouse,Electronics,North,Delhi,1,2400.0,1255.6,1144.4,0.0
+ORD-00218,2026-01-06,C0189,Desk Chair,Furniture,South,Bengaluru,4,20384.0,15018.83,5365.17,0.02
+ORD-00219,2025-07-19,C0233,Laptop Stand,Accessories,South,Bengaluru,8,3420.0,2702.49,717.51,0.05
+ORD-00220,2026-04-23,C0006,Water Bottle,Accessories,South,Bengaluru,8,5320.0,3998.31,1321.69,0.05
+ORD-00221,2025-08-21,C0208,Water Bottle,Accessories,West,Mumbai,2,10400.0,6561.12,3838.88,0.0
+ORD-00222,2025-10-28,C0220,Wireless Mouse,Electronics,West,Mumbai,5,4275.0,2804.73,1470.27,0.1
+ORD-00223,2026-05-11,C0119,Webcam,Electronics,North,Delhi,8,4480.0,3311.12,1168.88,0.2
+ORD-00224,2026-03-21,C0100,Wireless Mouse,Electronics,North,Delhi,7,6650.0,5363.66,1286.34,0.0
+ORD-00225,2025-06-03,C0091,Webcam,Electronics,South,Bengaluru,3,1147.5,1100.1,47.4,0.15
+ORD-00226,2026-01-23,C0046,Water Bottle,Accessories,North,Delhi,7,20825.0,12609.63,8215.37,0.15
+ORD-00227,2026-04-24,C0216,Wireless Mouse,Electronics,North,Delhi,2,3240.0,2549.55,690.45,0.1
+ORD-00228,2025-11-05,C0137,USB-C Hub,Electronics,South,Bengaluru,1,3430.0,2775.15,654.85,0.02
+ORD-00229,2026-07-23,C0142,Water Bottle,Accessories,South,Bengaluru,7,6517.0,5218.54,1298.46,0.02
+ORD-00230,2025-07-21,C0190,Wireless Mouse,Electronics,East,Kolkata,4,6480.0,5827.03,652.97,0.1
+ORD-00231,2025-12-18,C0028,USB-C Hub,Electronics,South,Bengaluru,1,1140.0,679.12,460.88,0.05
+ORD-00232,2025-08-11,C0170,Printer Paper,Office Supplies,East,Kolkata,5,24700.0,15053.03,9646.97,0.05
+ORD-00233,2025-12-01,C0048,Standing Desk,Furniture,South,Bengaluru,7,10080.0,9211.75,868.25,0.2
+ORD-00234,2026-09-29,C0069,Desk Chair,Furniture,North,Delhi,6,3780.0,3040.66,739.34,0.1
+ORD-00235,2025-02-20,C0012,USB-C Hub,Electronics,West,Mumbai,3,6120.0,3605.95,2514.05,0.15
+ORD-00236,2026-07-17,C0045,Mechanical Keyboard,Electronics,North,Delhi,4,2240.0,1435.54,804.46,0.2
+ORD-00237,2026-08-08,C0012,Webcam,Electronics,South,Bengaluru,4,16640.0,13599.36,3040.64,0.2
+ORD-00238,2026-10-04,C0226,Laptop Stand,Accessories,West,Mumbai,2,10192.0,5830.39,4361.61,0.02
+ORD-00239,2025-03-08,C0136,Mechanical Keyboard,Electronics,West,Mumbai,2,2400.0,1402.6,997.4,0.0
+ORD-00240,2026-07-25,C0217,Desk Chair,Furniture,South,Bengaluru,7,6300.0,4160.53,2139.47,0.25
+ORD-00241,2025-09-08,C0168,Wireless Mouse,Electronics,North,Delhi,7,30940.0,21384.39,9555.61,0.15
+ORD-00242,2025-03-03,C0093,Webcam,Electronics,North,Delhi,5,4275.0,3078.18,1196.82,0.1
+ORD-00243,2026-01-29,C0074,Standing Desk,Furniture,North,Delhi,1,1800.0,1812.47,-12.47,0.25
+ORD-00244,2026-08-09,C0220,USB-C Hub,Electronics,North,Delhi,4,3610.0,2814.02,795.98,0.05
+ORD-00245,2025-09-26,C0200,Desk Chair,Furniture,West,Mumbai,2,675.0,478.95,196.05,0.25
+ORD-00246,2025-10-19,C0079,Wireless Mouse,Electronics,South,Bengaluru,1,4160.0,4103.69,56.31,0.2
+ORD-00247,2026-01-17,C0077,Notebook Set,Office Supplies,West,Mumbai,2,2700.0,2183.1,516.9,0.25
+ORD-00248,2025-12-29,C0133,Notebook Set,Office Supplies,North,Delhi,4,4704.0,3506.17,1197.83,0.02
+ORD-00249,2026-06-17,C0177,Standing Desk,Furniture,East,Kolkata,2,1615.0,1226.62,388.38,0.15
+ORD-00250,2026-08-31,C0224,Printer Paper,Office Supplies,North,Delhi,2,1372.0,853.85,518.15,0.02
+ORD-00251,2025-10-05,C0002,Standing Desk,Furniture,South,Bengaluru,2,765.0,612.9,152.1,0.15
+ORD-00252,2026-10-09,C0175,Printer Paper,Office Supplies,South,Bengaluru,4,11200.0,10684.5,515.5,0.2
+ORD-00253,2025-11-02,C0049,Desk Chair,Furniture,South,Bengaluru,1,1620.0,1253.12,366.88,0.1
+ORD-00254,2026-07-20,C0069,Wireless Mouse,Electronics,North,Delhi,1,950.0,670.95,279.05,0.0
+ORD-00255,2026-07-04,C0074,USB-C Hub,Electronics,North,Delhi,7,6517.0,3462.08,3054.92,0.02
+ORD-00256,2025-04-25,C0071,Water Bottle,Accessories,North,Delhi,3,8400.0,5350.81,3049.19,0.2
+ORD-00257,2026-07-21,C0184,Webcam,Electronics,South,Bengaluru,4,7056.0,3596.59,3459.41,0.02
+ORD-00258,2026-05-14,C0062,Standing Desk,Furniture,West,Mumbai,1,4940.0,3259.26,1680.74,0.05
+ORD-00259,2025-05-24,C0128,Mechanical Keyboard,Electronics,West,Mumbai,5,14000.0,13400.35,599.65,0.2
+ORD-00260,2025-10-14,C0085,Mechanical Keyboard,Electronics,West,Mumbai,6,9180.0,6719.8,2460.2,0.15
+ORD-00006,2026-03-20,C0149,Notebook Set,Office Supplies,East,Kolkata,1,2400.0,1934.96,465.04,0.0
+ORD-00009,2025-11-11,C0086,Notebook Set,Office Supplies,East,Kolkata,6,5415.0,2918.39,2496.61,0.05
+ORD-00013,2025-07-20,C0207,Standing Desk,Furniture,East,Kolkata,3,2058.0,1043.86,1014.14,0.02
